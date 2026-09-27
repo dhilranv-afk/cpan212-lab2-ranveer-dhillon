@@ -1,6 +1,7 @@
 # Tool Library API
 
-<!-- Replace this line with one or two sentences about the project in your own words. -->
+This project is a REST API for managing a tool library, built with Node.js and Express, supporting operations to list, search, add, update, and remove tools.
+
 
 Live: <!-- your Render address, for example https://cpan212-lab2-jane-doe.onrender.com/api/tools -->
 
@@ -34,4 +35,4 @@ This tries every route and prints which checks pass.
 
 ## AI use
 
-<!-- List each AI tool you used and what you used it for, or write "No AI tools used." -->
+No AI tools used.
